@@ -1,0 +1,28 @@
+body{
+margin: 0;
+padding: 0;
+max-width: 1400px;
+max-height: 1100px;
+font-family: 'poppins', sans-serif;
+display:flex;
+align-items: center;
+justify-content: center;
+height: 200vh;
+
+text-align: justify;
+
+background: rgb(0,0,0);
+}
+
+p{
+font-size: 10px;
+line-height: 10px;
+background-image: url(naol.jpg);
+
+background-attachment: center;
+-webkit-background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+-webkit-background-clip: text;
+-webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
